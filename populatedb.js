@@ -161,7 +161,7 @@ async function createBooks() {
       6,
       "Test Book 2",
       "Summary of test book 2",
-      "ISBN222222",
+      "ISBN223322",
       authors[4],
       false
     ),
